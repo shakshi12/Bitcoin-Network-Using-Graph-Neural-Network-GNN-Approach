@@ -14,11 +14,11 @@ If you find this code or paper useful in your research, please consider citing:
 
 Please cite this paper:
 
-   @inproceedings{sharma2020forecasting,
-  title={Forecasting Transactional Amount in Bitcoin Network Using Temporal GNN Approach},
-  author={Sharma, Shakshi and Sharma, Rajesh},
-  booktitle={2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
-  pages={478--485},
-  year={2020},
-  organization={IEEE}
-}
+     @inproceedings{sharma2020forecasting,
+     title={Forecasting Transactional Amount in Bitcoin Network Using Temporal GNN Approach},
+     author={Sharma, Shakshi and Sharma, Rajesh},
+     booktitle={2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+     pages={478--485},
+     year={2020},
+     organization={IEEE}
+      }
